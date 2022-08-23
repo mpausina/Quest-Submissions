@@ -6,7 +6,10 @@
 ## Day 2 ##
 ###### Safety and Security, Clarity, Approachability, Developer Experience, Resource Oriented Programming
 
-## Chapter 2 Day 1 ##
+## Chapter 2 Day 1![Screen Shot 2022-08-09 at 11 18 22 AM](https://user-images.githubusercontent.com/111440271/186187060-b3d8d532-1963-4d95-bbf7-dfb6ceb76422.png)
+ ##
+
+
 ```cadence
 access(all) contract JacobTucker {
   access(all) let is: String
@@ -15,4 +18,3 @@ access(all) contract JacobTucker {
       }
 }
 '''
-![Chapter 2 Day 1](https://user-images.githubusercontent.com/111440271/186186454-6d644e2a-eca6-4844-a028-3945252a287c.png)
