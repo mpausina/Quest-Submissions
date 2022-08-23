@@ -15,3 +15,4 @@ access(all) contract JacobTucker {
       }
 }
 '''
+![Chapter 2 Day 1](https://user-images.githubusercontent.com/111440271/186186454-6d644e2a-eca6-4844-a028-3945252a287c.png)
