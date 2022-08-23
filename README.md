@@ -5,3 +5,12 @@
 ###### 3. For a fee, a transaction changes data on a blockchain and a script is used to view data on a blockchain and requires no fee.
 ## Day 2 ##
 ###### Safety and Security, Clarity, Approachability, Developer Experience, Resource Oriented Programming
+
+## Chapter 2 Day 1 ##
+```cadence
+access(all) contract JacobTucker {
+  access(all) let is: String
+    init() {
+      self.is = "the best"
+      }
+}
