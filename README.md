@@ -13,6 +13,8 @@ access(all) contract JacobTucker {
     init() {
       self.is = "the best"
       }
-}'''
+}
+'''
 
-![Chapter 2 Day 1](https://user-images.githubusercontent.com/111440271/186184545-66eae59a-af7e-4fd5-b49c-b174e8b85963.png)
+![Chapter 2 Day 1](https://user-images.githubusercontent.com/111440271/186184715-dd08ee97-53a0-47e6-8ae3-ec516932a587.png)
+
