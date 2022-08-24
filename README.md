@@ -7,6 +7,8 @@
 ###### Safety and Security, Clarity, Approachability, Developer Experience, Resource Oriented Programming
 The combination of clear error messaging, declarative code and a strong static type system makes cadence the optimal language for smart contract development
 
+## Chapter 2 Day 1 ##
+
 ![Chapter 2 Day 1](https://user-images.githubusercontent.com/111440271/186184116-52789a78-0c0d-4fbd-9ff4-35d7ba1679d5.png)
 
 ## Chapter 2 Day 1![Screen Shot 2022-08-09 at 11 18 22 AM](https://user-images.githubusercontent.com/111440271/186187060-b3d8d532-1963-4d95-bbf7-dfb6ceb76422.png)
