@@ -8,7 +8,7 @@
 
 The combination of clear error messaging, declarative code and a strong static type system makes cadence the optimal language for smart contract development.
 
-## Chapter 2 Day 1 ##
+
 
 
 
