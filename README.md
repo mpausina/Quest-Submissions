@@ -18,4 +18,8 @@ The combination of clear error messaging, declarative code and a strong static t
 
 ![Chapter 2 Day 1](https://user-images.githubusercontent.com/111440271/186187284-b34863e1-411e-4a3c-b3cb-251974e4d1ef.png)
 
+## Chapter 2 Day 2 ##
+###### 1. A script is read only.
+###### 2. AuthAccount means you want to access data in the acount.
+###### 3. In a transaction the prepare phase acceses data stored in an account and the execute phase changes data on the blockchain.
 
