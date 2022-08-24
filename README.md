@@ -5,7 +5,8 @@
 ###### 3. For a fee, a transaction changes data on a blockchain and a script is used to view data on a blockchain and requires no fee.
 ## Chapter 1 Day 2 ##
 ###### Safety and Security, Clarity, Approachability, Developer Experience, Resource Oriented Programming
-The combination of clear error messaging, declarative code and a strong static type system makes cadence the optimal language for smart contract development
+
+The combination of clear error messaging, declarative code and a strong static type system makes cadence the optimal language for smart contract development.
 
 ## Chapter 2 Day 1 ##
 
