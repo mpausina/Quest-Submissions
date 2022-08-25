@@ -27,3 +27,16 @@ The combination of clear error messaging, declarative code and a strong static t
 ![Ch2Day 2_2](https://user-images.githubusercontent.com/111440271/186670879-20dfc5b9-d838-4d86-879d-f3f1048d40d5.png)
 ![Chap2Day-3](https://user-images.githubusercontent.com/111440271/186670891-67abdf28-925b-4d25-92d9-bdbd4106dc3f.png)
 ![Chap2Day2_4](https://user-images.githubusercontent.com/111440271/186670913-0bc3bd4a-0455-4ad3-8de5-c2a0673af71d.png)
+
+## Chapter 2 Day 3 ##
+
+###### 1. ######
+
+```cadence
+pub fun main(): [String] {
+var list: [String] = ["Melissa", "Frank", "Judy"]
+log(list)
+return list
+}
+
+###### 2. ######
