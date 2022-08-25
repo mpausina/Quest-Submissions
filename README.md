@@ -33,3 +33,4 @@ The combination of clear error messaging, declarative code and a strong static t
 ###### 1. ######
 ![Chapter2Day3_1](https://user-images.githubusercontent.com/111440271/186675074-e0b9af19-75b7-46d9-9aa9-0ccdb6bc64e0.png)
 ###### 2. ######
+![Chapter2Day3 -2](https://user-images.githubusercontent.com/111440271/186680445-fd0cc097-73d3-4b4e-9a69-fc186698a532.png)
