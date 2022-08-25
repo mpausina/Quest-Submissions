@@ -31,12 +31,5 @@ The combination of clear error messaging, declarative code and a strong static t
 ## Chapter 2 Day 3 ##
 
 ###### 1. ######
-
-```cadence
-pub fun main(): [String] {
-var list: [String] = ["Melissa", "Frank", "Judy"]
-log(list)
-return list
-}
-
+![Chapter2Day3_1](https://user-images.githubusercontent.com/111440271/186675074-e0b9af19-75b7-46d9-9aa9-0ccdb6bc64e0.png)
 ###### 2. ######
