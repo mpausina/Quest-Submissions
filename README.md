@@ -35,11 +35,4 @@ The combination of clear error messaging, declarative code and a strong static t
 ###### 2. ######
 ![Chapter2Day3 -2](https://user-images.githubusercontent.com/111440271/186680445-fd0cc097-73d3-4b4e-9a69-fc186698a532.png)
 
-```cadence
-var mapping: {String: UInt64}  = {"Youtube": 1, "Twitter": 2, "Reddit": 3, "Facebook": 4, "Instagram": 5, "Reddit": 6}
 
-###### 4. ######
-
-```
-
-4. hello
