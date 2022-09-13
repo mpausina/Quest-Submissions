@@ -23,7 +23,7 @@ The combination of clear error messaging, declarative code and a strong static t
 ###### 2. AuthAccount means you want to access data in the acount.
 ###### 3. In a transaction the prepare phase acceses data stored in an account and the execute phase changes data on the blockchain.
 
-![Ch2Day2_1](https://user-images.githubusercontent.com/111440271/186670861-653837bf-a19f-4b97-953b-682c90f1e3f0.png)
+4. ![Ch2Day2_1](https://user-images.githubusercontent.com/111440271/186670861-653837bf-a19f-4b97-953b-682c90f1e3f0.png)
 ![Ch2Day 2_2](https://user-images.githubusercontent.com/111440271/186670879-20dfc5b9-d838-4d86-879d-f3f1048d40d5.png)
 ![Chap2Day-3](https://user-images.githubusercontent.com/111440271/186670891-67abdf28-925b-4d25-92d9-bdbd4106dc3f.png)
 ![Chap2Day2_4](https://user-images.githubusercontent.com/111440271/186670913-0bc3bd4a-0455-4ad3-8de5-c2a0673af71d.png)
